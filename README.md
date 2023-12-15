@@ -1,41 +1,68 @@
-# Projeto_POO_Swing
+<div align ="center">
+  <img src="https://github.com/GustavoHenrique07/AplicativoPOO/blob/main/ProjetoSa%C3%BAdeEmJogo/Programa/src/resources/Logo.jpg" width = "500px"/>
+  </div>
+<h1>
+Projeto Saúde em Jogo
+</h1>
 
-Esse projeto é um trabalho do segundo semestre da disciplina de POO 
 
-### Equipe
-1. [Eduarda Queiroz](https://github.com/MEduardaQueiroz) - Lead Full Stack Dev
-2. [Gustavo Henrrique](https://github.com/GustavoHenrique07)
-3. [Isabelle Silva](https://github.com/isabellecastello)
-4. [Isadora Braide](https://github.com/isadorabraide)
+* [Sobre](#Sobre)
+* [Características Implementadas](#Características-Implementadas)
+* [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
+* [Linguagem](#Linguagem)
+* [Como Executar](#Como-Executar)
+* [Requerimentos](#Requerimentos)
+* [Bibliotecas](#Bibliotecas)
+* [Stack](#Stack)
+* [Equipe](#Equipe)
 
-## O que é o projeto
-O projeto é em java de um jogo da velha e uma calculadora IMC.
+# Sobre:
+  
+<h3>
+  Projeto realizado para a nota da segunda etapa do semestre 2023.2(N2) na matéria de Programação Orientada a Objetos(POO).
+  </h3>
+  
+<h3>
+  O projeto apresenta de forma dinamica um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
+  </h3>
+  
+# 💡Caracteristicas implementadas:
 
-## Como executar
-De preferência usando netbeans
+* [x] Login
+* [x] Calculadora de IMC
+* [x] Jogo da Velha
 
-## Requerimentos
+# 🛠Ferramentas Utilizadas:
+  
+  * ## Netbeans
+     ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+# 🗨Linguagem:
+
+* ## Java (Swing)
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+# ❓Como executar:
+De preferência utilizando a IDE netbeans,após baixar por este github todo o programa inserido no repositório.
+
+# ❓Requerimentos:
 **Java 17 (ou superior)**
 
-### Bibliotecas: 
-- [blibioteca swing] ()
-- [AWT]()
+# 📚Bibliotecas: 
+- [Biblioteca Swing] (https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
+- [Biblioteca AWT](https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
 
-
-## Stack
+# Stack:
 **Apache Netbeans 19**
 
 **OpenJDK 17 (ou superior)**
 
-
-## Licenças
-![Licence](https://img.shields.io/badge/Licença-MIT-yellow)
-
-<details>
-  <summary>FAQ</summary>
-
-+ <details>
-  <summary>Qual IDE nós usamos?</summary>
-  &nbsp &nbsp &nbsp Apache Netbeans </details>
-  
-</details>
+# 💼📊Equipe:
+- [Gustavo Henrique Chaves de Carvalho](https://github.com/GustavoHenrique07):
+  Responsável pela Idealização,organização do projeto e a implementação das telas de login,seleção e de ajuda.
+- [Isadora Braide da Silva.](https://github.com/isadorabraide):
+  Responsável pela implementação da Calculadora de IMC.
+- [Isabelle Silva Castello Branco.](https://github.com/isabellecastello):
+  Responsável pela implementação do Jogo da Velha.
+- [Maria Eduarda de Queiroz Lima.](https://github.com/MEduardaQueiroz):
+  Responsável pela Organização do projeto e Criação da Empresa.
